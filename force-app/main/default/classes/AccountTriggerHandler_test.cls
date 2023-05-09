@@ -3,7 +3,7 @@ public class AccountTriggerHandler_test
 {
 	@testsetup
     public static void dataSetup()
-    {
+    { 
         List<Account> accList = new List<Account>();
         Account acc;
          acc = new Account();
